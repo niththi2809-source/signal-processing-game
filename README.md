@@ -22,7 +22,7 @@ An interactive MATLAB App Designer project to visualize and understand key conce
 - Error Count
 
 ##  Demo
-(https://drive.google.com/file/d/1FRRb1IJgixnVtABT4cZ3PC9RWp6WsX4Y/view?usp=sharing)
+https://drive.google.com/file/d/1FRRb1IJgixnVtABT4cZ3PC9RWp6WsX4Y/view?usp=sharing
 
 ##  Tools Used
 - MATLAB App Designer
