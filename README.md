@@ -31,4 +31,5 @@ An interactive MATLAB App Designer project to visualize and understand key conce
 ##  Key Idea
 Gamified learning approach to understand communication systems visually and interactively.
 
----
+## Author
+Niththila. B
